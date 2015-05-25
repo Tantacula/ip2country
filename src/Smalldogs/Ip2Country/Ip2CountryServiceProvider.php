@@ -19,7 +19,6 @@ class Ip2CountryServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('smalldogs/ip2country');
 	}
 
 	/**
