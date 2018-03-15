@@ -1,6 +1,6 @@
 {
-    "name": "smalldogs/ip2country",
-    "description": "Laravel package to lookup the country associated with an IPv4 address",
+    "name": "tantacula/ip2country",
+    "description": "Laravel package to lookup the country associated with an IPv4 address (fork from the 'Smalldogs' repo)",
     "license" : "BSD-2-Clause",
     "time" : "2014-11-20",
     "version": "3.0.0",
